@@ -1,5 +1,5 @@
 # Lifestyle & Sleep – CISC 490 BI Project
-This is my final project for CISC 490 – Business Intelligence at the University of St. Thomas. I used Power---
+This is my final project for CISC 490 – Business Intelligence at the University of St. Thomas. I used Power BI ---
 
 ## What’s in here
 - Sleep_Lifestyle_Final_Alejandro.pbix
@@ -25,4 +25,4 @@ This is my final project for CISC 490 – Business Intelligence at the Universit
 The PBIX is already wired up to the CSVs in the data folder, so you shouldn’t have to reconnect anything.
 ---
 ## Why I picked this project
-I chose this for my portfolio because it shows the full BI workflow: finding data, cleaning it, building a star-s
+I chose this for my portfolio because it shows the full BI workflow: finding data, cleaning it, building a star style model, and then turning it into a story with visuals. It also ties back to real life and how students and workers sleep, how our schedules affect us, and where habits might be hurting or helping our rest.
