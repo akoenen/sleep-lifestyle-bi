@@ -1,0 +1,12 @@
+OccupationNameNormalized,SOCMajorGroup,ShiftWorkRiskPct
+Software Engineer,Computer & Mathematical,10
+Doctor,Healthcare Practitioners & Technical,80
+Sales Representative,Sales & Related,40
+Teacher,Educational Instruction & Library,10
+Nurse,Healthcare Practitioners & Technical,80
+Engineer,Architecture & Engineering,15
+Accountant,Business & Financial Operations,15
+Scientist,"Life, Physical, and Social Science",15
+Lawyer,Legal,20
+Salesperson,Sales & Related,40
+Manager,Management,20
